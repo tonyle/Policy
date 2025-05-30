@@ -2,13 +2,13 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDcAlL_yosop84X-ZEfK5V2L-0BRFuIyis",
-    authDomain: "privacy-5d10f.firebaseapp.com",
-    projectId: "privacy-5d10f",
-    storageBucket: "privacy-5d10f.firebasestorage.app",
-    messagingSenderId: "453026879416",
-    appId: "1:453026879416:web:84e815dd75a932f9e7614d",
-    measurementId: "G-9XER7R60BM"
+    apiKey: "AIzaSyBTEnA5Hnqj95sHDWHFOpOsS6AeIKcTBNI",
+    authDomain: "bingo-418ef.firebaseapp.com",
+    projectId: "bingo-418ef",
+    storageBucket: "bingo-418ef.firebasestorage.app",
+    messagingSenderId: "274888802605",
+    appId: "1:274888802605:web:8eda22b4ace869315c93a4",
+    measurementId: "G-F3SZCCK8BP"
   };
 
 const app = initializeApp(firebaseConfig);
